@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="68" viewBox="0 0 184 68">
+  <g id="logo" transform="translate(-66.299 -124.237)">
+    <text id="FITNESS" transform="translate(99.299 175.237)" fill="#fff" font-size="48" font-family="BebasNeue-Regular, Bebas Neue"><tspan x="0" y="0">FITNESS</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(221.067 124)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="10" height="67" rx="5" transform="translate(-1.768 0.237)" fill="#fff"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="11" height="57" rx="5" transform="translate(9.232 5.237)" fill="#fff"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="8" height="37" rx="4" transform="translate(21.232 15.237)" fill="#fff"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(67 124)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="10" height="67" rx="5" transform="translate(20.299 0.237)" fill="#fff"/>
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="11" height="57" rx="5" transform="translate(8.299 5.237)" fill="#fff"/>
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="8" height="37" rx="4" transform="translate(-0.701 15.237)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
